@@ -13,7 +13,14 @@
         "paths": [
           "*"
         ]
+      },
+      {
+        "appID": "8U3A9S3C64.com.payme.testuniversal",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
 }
+
